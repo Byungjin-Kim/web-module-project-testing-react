@@ -22,7 +22,6 @@ const displayTest = {
     ]
 }
 
-
 test('renders without errors with no props', async () => {
     render(<Display />);
 });
